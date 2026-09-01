@@ -12,10 +12,3 @@
 ## 📌 Project Overview
 This repository provides an end-to-end framework for processing 2D/3D Computed Tomography (CT) DICOM scans. It automates metadata parsing, applies tissue-specific Hounsfield Unit (HU) windowing (Soft Tissue, Lung, Bone), and executes a PyTorch Convolutional Neural Network (CNN) architecture for slice-level anomaly identification.
 ```[cite: 1]
-
----
-
-### Option 3: Short 1-Liner (For Resume / Portfolio Links)
-*If you are linking this project on your CV, LinkedIn, or personal website:*
-
-> **Medical CT Scan Analysis Pipeline:** Architected a PyTorch & Streamlit pipeline for automated DICOM parsing, HU tissue windowing, and CNN-based anomaly detection on clinical CT scans[cite: 1].
